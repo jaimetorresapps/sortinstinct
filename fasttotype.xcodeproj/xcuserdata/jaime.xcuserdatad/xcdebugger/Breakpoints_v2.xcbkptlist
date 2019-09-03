@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fasttotype/WrongViewController.swift"
+            timestampString = "589167548.591769"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "tryAgain(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fasttotype/WrongViewController.swift"
+            timestampString = "589167548.591873"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "WrongViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fasttotype.WrongViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; fasttotype.WrongViewController"
+                  moduleName = "fasttotype"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaime/Library/Autosave%20Information/fasttotype/fasttotype/WrongViewController.swift"
+                  timestampString = "588048467.021852"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fasttotype.WrongViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; fasttotype.WrongViewController"
+                  moduleName = "fasttotype"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaime/Library/Autosave%20Information/fasttotype/fasttotype/WrongViewController.swift"
+                  timestampString = "588048467.02609"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fasttotype.WrongViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;fasttotype.WrongViewController&gt;"
+                  moduleName = "fasttotype"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaime/Library/Autosave%20Information/fasttotype/fasttotype/WrongViewController.swift"
+                  timestampString = "588048467.029856"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fasttotype.WrongViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;fasttotype.WrongViewController&gt;"
+                  moduleName = "fasttotype"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaime/Library/Autosave%20Information/fasttotype/fasttotype/WrongViewController.swift"
+                  timestampString = "588048467.033293"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "fasttotype.WrongViewController.__deallocating_deinit"
+                  moduleName = "fasttotype"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaime/Library/Autosave%20Information/fasttotype/fasttotype/WrongViewController.swift"
+                  timestampString = "588048467.036672"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
